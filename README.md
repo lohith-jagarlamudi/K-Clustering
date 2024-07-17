@@ -3,5 +3,6 @@
 
 
 # Tools used
-+ Google collab
-+ Sql
++ Google collab Notebook
++ Jupyter Notebook
+  
