@@ -14,9 +14,9 @@ The dataset used in this project is "mall_customers.csv." It contains the follow
 ## Approach
 The main steps in this project include:
 
-* Data Preprocessing: Exploring the dataset,encoding categorical variables.
-* KMeans Clustering: Using the KMeans algorithm to group customers based on their annual income and spending score.
-* Visualization: Visualizing the clusters to understand the distinct customer segments.
+1. Data Preprocessing: Exploring the dataset,encoding categorical variables.
+2. KMeans Clustering: Using the KMeans algorithm to group customers based on their annual income and spending score.
+3. Visualization: Visualizing the clusters to understand the distinct customer segments.
 ## Files
 + mall_customers.csv: The dataset used for clustering.
 + KMeans_Clustering.ipynb: Google collab and Jupyter Notebook containing the Python code for KMeans clustering.
